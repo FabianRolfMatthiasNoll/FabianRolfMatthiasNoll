@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a student currently learning applied IT (translated from german) and i am a trained electronics technician  
-🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning .Net and C#<br>💬 Ask me anything about electronics <br>⚡ Fun fact i love robots
+🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Go<br>💬 Ask me anything about electronics <br>⚡ Fun fact i love robots
 
 
 ## 🌐 Socials:
